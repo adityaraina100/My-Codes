@@ -1,0 +1,93 @@
+Order No:343590
+Tea :	2
+Ice-Cream :	2
+Pulav :	2
+Drinks :	1
+Dosa	3
+Sgst :	Rs 6.62
+Cgst :	Rs 6.62
+Total cost of the order :	Rs 265.00
+Total amount to be paid :	Rs 278.25
+
+
+Order No:270192
+Tea :	3
+Idli:	2
+Pulav :	3
+Sgst :	Rs 5.38
+Cgst :	Rs 5.38
+Total cost of the order :	Rs 215.00
+Total amount to be paid :	Rs 225.75
+
+
+Order No:299209
+Tea :	1
+Idli:	3
+Ice-Cream :	3
+Drinks :	5
+Sgst :	Rs 6.75
+Cgst :	Rs 6.75
+Total cost of the order :	Rs 270.00
+Total amount to be paid :	Rs 283.50
+
+
+Order No:367379
+Tea :	2
+Ice-Cream :	4
+Drinks :	1
+Dosa	2
+Sgst :	Rs 5.00
+Cgst :	Rs 5.00
+Total cost of the order :	Rs 200.00
+Total amount to be paid :	Rs 210.00
+
+
+Order No:144293
+Tea :	1
+Sgst :	Rs 0.12
+Cgst :	Rs 0.12
+Total cost of the order :	Rs 5.00
+Total amount to be paid :	Rs 5.25
+
+
+Order No:412231
+Tea :	2
+Idli:	5
+Pulav :	1
+Drinks :	2
+Sgst :	Rs 5.62
+Cgst :	Rs 5.62
+Total cost of the order :	Rs 225.00
+Total amount to be paid :	Rs 236.25
+
+
+Order No:55090
+Tea :	122
+Ice-Cream :	2
+Sgst :	Rs 16.75
+Cgst :	Rs 16.75
+Total cost of the order :	Rs 670.00
+Total amount to be paid :	Rs 703.50
+
+
+Order No:324281
+Tea :	1
+Idli:	2f
+Drinks :	1
+Sgst :	Rs 1.88
+Cgst :	Rs 1.88
+Total cost of the order :	Rs 75.00
+Total amount to be paid :	Rs 78.75
+
+
+Order No:14305
+Tea :	2
+Idli:	1
+Pulav :	1
+Drinks :	1
+Sgst :	Rs 2.62
+Cgst :	Rs 2.62
+Total cost of the order :	Rs 105.00
+Total amount to be paid :	Rs 110.25
+
+
